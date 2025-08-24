@@ -104,3 +104,4 @@ Cluster vs. Petal Width Visual (Middle Right) – Highlights average petal width
 
 
 ## 6. Screenshot
+![Dashboard preview](https://github.com/YahyaB007/PowerBi-Visualization/blob/main/Iris%20Dashboard.png)
